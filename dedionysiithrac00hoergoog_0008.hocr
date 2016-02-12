@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./dedionysiithrac00hoergoog_0008.png"; bbox 0 0 3002 4614; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 226 1469 1346 1676">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 226 1469 1346 1712">
+     <span class='ocr_line' id='line_1_1' title="bbox 226 1469 1346 1676; baseline 0 -1"><span class='ocrx_word' id='word_1_1' title='bbox 226 1539 617 1676; x_wconf 71' lang='lat' dir='ltr'><strong>ffinnmmno</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 657 1607 669 1632; x_wconf 91' lang='lat'><strong>·</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 718 1535 1273 1675; x_wconf 70' lang='grc' dir='ltr'>ΗοεηεεΗΕιΜΑΝΝ</span> <span class='ocrx_word' id='word_1_4' title='bbox 1344 1469 1346 1474; x_wconf 64' lang='grc'><em>’</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 335 1851 1263 2006">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 335 1851 1263 2006">
+     <span class='ocr_line' id='line_1_2' title="bbox 335 1851 1263 2006; baseline -0.009 -2"><span class='ocrx_word' id='word_1_5' title='bbox 335 1921 570 2006; x_wconf 84' lang='lat' dir='ltr'>PATRUO</span> <span class='ocrx_word' id='word_1_6' title='bbox 621 1965 628 1980; x_wconf 95' lang='lat'><strong>·</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 652 1921 807 2006; x_wconf 85' lang='lat' dir='ltr'><strong>VERE</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 839 1851 865 1987; x_wconf 24' lang='lat'><strong>·.</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 885 1919 1161 2006; x_wconf 85' lang='lat' dir='ltr'><strong>PATERNO</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1261 1990 1263 1996; x_wconf 82' lang='grc'>,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 656 2239 838 2310">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 656 2239 838 2310">
+     <span class='ocr_line' id='line_1_3' title="bbox 656 2239 838 2310; baseline 0.011 -2"><span class='ocrx_word' id='word_1_11' title='bbox 656 2239 838 2310; x_wconf 83' lang='lat' dir='ltr'><strong>SAGRUM.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1506 4614">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1506 4614">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1506 4614; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 0 0 1506 4614; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
